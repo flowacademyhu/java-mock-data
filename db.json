@@ -1,0 +1,7 @@
+{
+  "name" : "Budi büfé",
+  "seats": 0,
+  "menu": [ "Hamburger", "Gyros", "Sült krumpli" ],
+  "workers": 2,
+  "WC": false
+}
